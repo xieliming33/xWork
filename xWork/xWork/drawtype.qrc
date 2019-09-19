@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>drawtype/brokenline.ico</file>
+        <file>drawtype/circular.ico</file>
+        <file>drawtype/ curves.ico</file>
+        <file>drawtype/ellipse.ico</file>
+        <file>drawtype/line.ico</file>
+        <file>drawtype/point.ico</file>
+        <file>drawtype/rectangle.ico</file>
+        <file>drawtype/text.ico</file>
+        <file>drawtype/circlearc.ico</file>
+    </qresource>
+</RCC>
